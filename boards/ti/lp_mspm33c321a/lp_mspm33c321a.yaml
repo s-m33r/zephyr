@@ -10,4 +10,5 @@ supported:
   - dma
   - pinctrl
   - uart
+  - gpio
 vendor: ti
