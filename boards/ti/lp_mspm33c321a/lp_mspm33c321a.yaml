@@ -8,4 +8,6 @@ ram: 256
 flash: 1024
 supported:
   - dma
+  - pinctrl
+  - uart
 vendor: ti
