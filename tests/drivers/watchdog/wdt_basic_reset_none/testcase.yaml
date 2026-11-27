@@ -67,6 +67,7 @@ tests:
       - lp_mspm0g3507/mspm0g3507
       - lp_mspm0g3519/mspm0g3519
       - lp_mspm0l2228/mspm0l2228
+      - lp_am13e232/am13e232
     integration_platforms:
       - lp_mspm0g3507/mspm0g3507
     extra_configs:
